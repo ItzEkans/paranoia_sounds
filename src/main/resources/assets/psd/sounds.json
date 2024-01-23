@@ -1,0 +1,170 @@
+{
+  "alien_1": {
+    "subtitle": "sounds.psd.alien",
+    "sounds": [
+      "psd.alien_1"
+    ]
+  },
+  "alien_2": {
+    "subtitle": "sounds.psd.alien",
+    "sounds": [
+      "psd.alien_2"
+    ]
+  },
+  "alien_3": {
+    "subtitle": "sounds.psd.alien",
+    "sounds": [
+      "psd.alien_3"
+    ]
+  },
+  "alien_4": {
+    "subtitle": "sounds.psd.alien",
+    "sounds": [
+      "psd.alien_4"
+    ]
+  },
+  "alien_5": {
+    "subtitle": "sounds.psd.alien",
+    "sounds": [
+      "psd.alien_5"
+    ]
+  },
+  "growl": {
+    "subtitle": "sounds.psd.growl",
+    "sounds": [
+      "psd.growl"
+    ]
+  },
+  "howl_1": {
+    "subtitle": "sounds.psd.howl",
+    "sounds": [
+      "psd.howl_1"
+    ]
+  },
+  "howl_2": {
+    "subtitle": "sounds.psd.howl",
+    "sounds": [
+      "psd.howl_2"
+    ]
+  },
+  "monster_scream": {
+    "subtitle": "sounds.psd.scream",
+    "sounds": [
+      "psd.monster_scream"
+    ]
+  },
+  "mumble": {
+    "subtitle": "sounds.psd.mumble",
+    "sounds": [
+      "psd:mumble"
+    ]
+  },
+  "screech_1": {
+    "subtitle": "sounds.psd.screech",
+    "sounds": [
+      "psd:screech_1"
+    ]
+  },
+  "screech_2": {
+    "subtitle": "sounds.psd.screech",
+    "sounds": [
+      "psd:screech_2"
+    ]
+  },
+  "steps": {
+    "subtitle": "sounds.psd.steps",
+    "sounds": [
+      "psd:steps"
+    ]
+  },
+  "wendigo_1": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_1"
+    ]
+  },
+  "wendigo_2": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_2"
+    ]
+  },
+  "wendigo_3": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_3"
+    ]
+  },
+  "wendigo_4": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_4"
+    ]
+  },
+  "wendigo_5": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_5"
+    ]
+  },
+  "wendigo_6": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_6"
+    ]
+  },
+  "wendigo_7": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_7"
+    ]
+  },
+  "wendigo_8": {
+    "subtitle": "sounds.psd.wendigo",
+    "sounds": [
+      "psd:wendigo_8"
+    ]
+  },
+  "whistle": {
+    "subtitle": "sounds.psd.whistle",
+    "sounds": [
+      "psd:whistle"
+    ]
+  },
+  "wood_1": {
+    "subtitle": "sounds.psd.wood",
+    "sounds": [
+      "psd:wood_1"
+    ]
+  },
+  "wood_2": {
+    "subtitle": "sounds.psd.wood",
+    "sounds": [
+      "psd:wood_2"
+    ]
+  },
+  "wood_3": {
+    "subtitle": "sounds.psd.wood",
+    "sounds": [
+      "psd:wood_3"
+    ]
+  },
+  "wood_4": {
+    "subtitle": "sounds.psd.wood",
+    "sounds": [
+      "psd:wood_4"
+    ]
+  },
+  "wood_5": {
+    "subtitle": "sounds.psd.wood",
+    "sounds": [
+      "psd:wood_5"
+    ]
+  },
+  "wood_6": {
+    "subtitle": "sounds.psd.wood",
+    "sounds": [
+      "psd:wood_6"
+    ]
+  }
+}
